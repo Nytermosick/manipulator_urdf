@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: manipulator_urdf
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: gleb
+Maintainer-email: stojko.g@yandex.ru
+License: Apache-2.0
+License-File: LICENSE
+Requires-Dist: setuptools
